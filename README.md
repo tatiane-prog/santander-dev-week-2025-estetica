@@ -51,3 +51,7 @@ As chaves de API foram removidas do código antes do commit final. Recomenda-se 
 
 ---
 *Projeto realizado para fins educacionais no Bootcamp Santander Dev Week 2023.*
+
+---
+📫 **Contato:**
+Tatiane Mares - www.linkedin.com/in/tatiane-mares-2061b8b6
